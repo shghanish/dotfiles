@@ -10,7 +10,7 @@ cp -r polybar ~/.config
 cp -r rofi ~/.config
 cp -r gtk-3.0 ~/.config
 mkdir ~/Pictures/Walls
-cp -r Walls/* ~/Pictures
+cp -r Walls/* ~/Pictures/Walls
 echo "Rice Installed Successfully"
 sudo systemctl enable sddm
 sudo systemctl start sddm
