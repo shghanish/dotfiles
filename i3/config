@@ -191,6 +191,10 @@ bindsym $mod+c exec codium
 bindsym $mod+z exec telegram-desktop
 bindsym $mod+x exec firefox
 
+# border
+default_border none
+default_floating_border none
+
 # Screenshot
 bindsym Print exec gnome-screenshot -i
 
